@@ -1,0 +1,11 @@
+.sidebar{
+  width: 50%;
+  position: absolute;
+  transition: width 0.4s linear;
+}
+
+/** for medium size */
+@media only screen and (min-width:768px) {}
+
+/** for large size */
+@media only screen and (min-width:992px) {}
